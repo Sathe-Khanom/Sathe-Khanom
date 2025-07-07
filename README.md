@@ -1,12 +1,5 @@
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Sathe-Khanom/Sathe-Khanom/blob/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github.com/Sathe-Khanom/Sathe-Khanom/blob/main/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake"
-    src="https://github.com/Sathe-Khanom/Sathe-Khanom/blob/main/github-contribution-grid-snake-dark.svg" />
-</picture>
+
 
 <h1 align="center">Hi, I'm Sathe Khanom</h1>
 <h3 align="center">Full Stack Java Learner</h3>
